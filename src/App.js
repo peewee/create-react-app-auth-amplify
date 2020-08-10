@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+cimport React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { withAuthenticator } from 'aws-amplify-react'
@@ -21,7 +21,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn Svelte
+            Fuck React
           </a>
         </header>
       </div>
