@@ -21,7 +21,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn Svelte
+            Forget React
           </a>
         </header>
       </div>
