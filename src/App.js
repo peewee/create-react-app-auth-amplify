@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Fuckb me <code>up the arse</code> and bugger you.
+            Fuck me<code> up the arse</code> and bugger you.
           </p>
           <a
             className="App-link"
